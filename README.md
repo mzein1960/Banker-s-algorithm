@@ -15,3 +15,5 @@ The program allows the user to input the required data and checks if the system 
 *VERY IMPORTANT NOTE :
 --> WHEN entre the available or allocation or max resources must entre space between numbers like: 123 must be 1 2 3
 because the problem when ente number like that: 1023 ,the system cannot know if 10 is ten or 1 and 0 so to avoid this problem must entre space between numbers
+
+*-->>there is screenshot of test of my application.
