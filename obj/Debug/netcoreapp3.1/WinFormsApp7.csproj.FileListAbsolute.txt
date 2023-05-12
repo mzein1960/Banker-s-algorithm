@@ -1,0 +1,16 @@
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.exe
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.deps.json
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.runtimeconfig.json
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.runtimeconfig.dev.json
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.dll
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.pdb
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.Form1.resources
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.AssemblyInfo.cs
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.dll
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.pdb
+C:\Users\MZEIN\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.genruntimeconfig.cache

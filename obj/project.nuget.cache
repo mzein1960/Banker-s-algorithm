@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "unuRQqTA+Pys0dNhNc64tcNgNguyYrG1f9o4CMSqpDc1szpsIyprFEyczXMbBi5LZI4GSX0t47ZYg0zxcvnVHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MZEIN\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Banker's algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MZEIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
